@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sonka, not so professional "developer"
+- 👋 Hi, I’m sonka, a not so professional "developer"
 - 👀 I’m interested in coding and making videos 
 - 🌱 I’m currently learning C, HTML and CSS
 - 📫 You can reach me <a href=https://appwizc.pl> here </a> 
