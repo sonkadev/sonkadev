@@ -4,7 +4,4 @@
 - 📫 You can reach me <a href=https://appwizc.pl> here </a>
 - ⚫ If i'm inactive for more than a year then i probably switched to my<a href=https://github.com/sonkaskid> alt </a>
 
-<style>
-  font-size:45px;
-</style>
 <h1> test </h1>
