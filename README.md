@@ -6,7 +6,7 @@
 
 <h3> a really dumb developer. </h3>
 
-<p> socials & website(s) </p>
+<p> socials & websites </p>
 
    <a href="https://sonka.lol">main site</a> -
    <a href="https://6d.hu">link shortener (soon)</a> -
@@ -14,8 +14,8 @@
    <a href="https://t.me/csutortok">telegram</a>
 
 
+<h5> more projects are coming soon but im lazy rn </h5>
 
   </div>
-</center>
 
 
