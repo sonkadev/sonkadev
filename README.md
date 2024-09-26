@@ -13,9 +13,10 @@
    <a href="https://discord.com/users/1161346234833961030">discord</a> -
    <a href="https://t.me/csutortok">telegram</a>
 
-
 <h5> more projects are coming soon but im lazy rn </h5>
-
+```sh
+echo meow
+```
   </div>
 
 
