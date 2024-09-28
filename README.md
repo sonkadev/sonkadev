@@ -1,7 +1,7 @@
 
 <div align=center> 
 <summary>
-<h1> Hi, I'm sonka, </h1>
+<h1> 👋 Hi, I'm sonka, </h1>
     </summary>
 
 <h3> a really dumb developer. </h3>
