@@ -16,7 +16,8 @@
 ```sh
 echo meow
 ```
-
+<h3> Current projects </h3>
+  <a href="https://github.com/sonkadev/SVPI">⬇️ S(ony) V(egas) P(ro) I(installer)</a>
 <h5> more projects are coming soon but im lazy rn </h5>
 
   </div>
