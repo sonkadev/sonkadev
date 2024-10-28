@@ -10,8 +10,8 @@
 
    <a href="https://sonka.lol">🌐 Website</a> -
    <a href="https://6d.hu">🔗 Link shortener (by spitkov)</a> -
-   <a href="https://discord.com/users/1161346234833961030">💬 Discord</a> -
-   <a href="https://t.me/csutortok">💬 Telegram</a>
+   <a href="https://discord.com/users/1161346234833961030">💬 Discord</a> 
+
 
 ```sh
 echo meow
