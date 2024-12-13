@@ -9,7 +9,7 @@
 <p> socials & websites </p>
 
    <a href="https://sonka.lol">🌐 Website</a> -
-   <a href="https://6d.hu">🔗 Link shortener (by spitkov)</a> -
+   <a href="https://6d.hu">🔗 Link shortener</a> -
    <a href="https://youtube.com/@handleforsale">🎥 Youtube</a> -
    <a href="https://discord.com/users/1161346234833961030">💬 Discord</a> 
 
