@@ -1,9 +1,11 @@
 
-<div align=center> 
+<div id="toc">
+<ul style="list-style: none;">
 <summary>
 <h1> 👋 Hi, I'm sonka, </h1>
-    </summary>
-
+</summary>
+ </ul>
+</div>
 <h3> a really dumb developer. </h3>
 
 <p> socials & websites </p>
@@ -22,6 +24,6 @@ echo meow
   <a href="https://github.com/sonkadev/SVPI">⬇️ SVPI</a>
 <h5> more projects are coming soon but im lazy rn </h5>
 
-  </div>
+ </div>
 
 
