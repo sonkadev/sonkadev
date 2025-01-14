@@ -22,6 +22,7 @@ echo meow
 ```
 <h3> Current projects </h3>
   <a href="https://github.com/sonkadev/SVPI">⬇️ SVPI</a>
+  <a href="https://qtpie.xyz">🥧 QtPie</a>
 <h5> more projects are coming soon but im lazy rn </h5>
 
  </div>
